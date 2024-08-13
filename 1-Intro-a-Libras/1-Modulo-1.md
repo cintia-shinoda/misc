@@ -75,4 +75,3 @@ a - https://youtu.be/16Hts8GtKYs
 b - https://youtu.be/zpLzezwawno
 c - https://youtu.be/CeDLy-SdJ1c  = macarrão
 d - https://youtu.be/jdKmzrtdrf4
-
