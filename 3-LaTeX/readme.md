@@ -6,5 +6,5 @@
 |:---:|:---:|:---:|:---|
 |  | 1 | 08/10/2024 | Introdução ao $\LaTeX$ e Overleaf |
 |  | 2 | 09/10/2024 | Introdução ao $\LaTeX$ no Lyx |
-|  | 3 | 10/10/2024 | Livro e Apresentação no LyX |
-|  | 4 | 16/10/2024 | Introdução ao TikZ |
+|  | 3 | 10/10/2024 | Explorando outras formas de documentos no LyX |
+|  | 4 | 16/10/2024 | Figuras com o TikZ |
