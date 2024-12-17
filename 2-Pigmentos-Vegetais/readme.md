@@ -4,7 +4,7 @@
 |:---:|:---:|:---|:---|
 |  | 1 | Apresentação | <ul><li>1. [x] Conheça o professor</li><li>2. [] O que você vai aprender</li><li>3. [] Pesquisa de matérias primas</li></ul> |
 |  | 2 | E-book |  |
-|  | 3 |  |  |
+|  | 3 | História e possibilidades de aplicação |  |
 |  | 4 |  |  |
 |  | 5 |  |  |
 |  | 6 |  |  |
